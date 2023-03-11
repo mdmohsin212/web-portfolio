@@ -26,6 +26,7 @@ h1{
 }
 section{
     height: 600px;
+    padding-bottom: 100px;
 }
 .link-button{
     text-decoration: none;
@@ -36,11 +37,14 @@ section{
     font-weight: bold;
 
 }
-.down-width{
-    width: 40%;
-    float: left;
-    padding-left: 6%;
+.dream-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
-.down-width img{
-    width: 100%;
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
 }
